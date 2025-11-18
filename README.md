@@ -74,3 +74,20 @@ Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-mu
 
 We would appreciate your feedback on Compose/Web and Kotlin/Wasm in the public Slack channel [#compose-web](https://slack-chats.kotlinlang.org/c/compose-web).
 If you face any issues, please report them on [YouTrack](https://youtrack.jetbrains.com/newIssue?project=CMP).
+
+### Previews
+
+### Android Preview
+[android_multiplatform.webm](https://github.com/user-attachments/assets/f46776fd-3dc2-4269-9d19-340e1d42a746)
+
+### Ios Preview
+
+
+https://github.com/user-attachments/assets/8d2b80c3-bb2a-410f-9987-e42823273e27
+
+
+### Web Preview
+
+
+https://github.com/user-attachments/assets/4f5fd59a-183e-4ffd-a85f-4fe9692ef3a5
+
